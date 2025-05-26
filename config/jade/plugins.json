@@ -81,6 +81,9 @@
   "petrolpark": {
     "contamination": true
   },
+  "corpse": {
+    "corpse": true
+  },
   "balm": {
     "jade": true
   }

@@ -6,14 +6,5 @@
 !/mods/
 !/shaderpacks/
 
-# Playerdaten erhalten (normalerweise im Ordner 'playerdata' unter 'saves/CoopWelt')
-!/saves/
-!/saves/CoopWelt/
-!/saves/CoopWelt/playerdata/
-
-# Nur die CoopWelt speichern, andere Welten ignorieren
-/saves/*
-!/saves/CoopWelt/
-
 # Schematics nicht ignorieren
 !/schematics/

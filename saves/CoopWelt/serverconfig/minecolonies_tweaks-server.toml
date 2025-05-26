@@ -62,7 +62,7 @@
 		couriersPerLevel = 2
 
 [citizens]
-	disableMourn = false
+	disableMourn = true
 	#MineColonies's default value is false
 	disableInteractionDelay = true
 
@@ -76,7 +76,7 @@
 
 	[blocks.crop]
 		#Caution: if change this, all planted MineColonies crops when before are will break into item.
-		vanillaFarmland = false
+		vanillaFarmland = true
 		ignoreBiome = false
 		canPlayerPlant = false
 		canPerformBonemeal = true
